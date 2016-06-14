@@ -1,0 +1,6 @@
+c:\users\jayakumari\documents\visual studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\bin\TextMessageWebApplication.dll.config
+c:\users\jayakumari\documents\visual studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\bin\TextMessageWebApplication.dll
+c:\users\jayakumari\documents\visual studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\bin\TextMessageWebApplication.pdb
+c:\users\jayakumari\documents\visual studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\obj\Debug\TextMessageWebApplication.dll
+c:\users\jayakumari\documents\visual studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\obj\Debug\TextMessageWebApplication.pdb
+C:\Users\Jayakumari\Documents\Visual Studio 2013\Projects\TextMessageWebApplication\TextMessageWebApplication\obj\Debug\TextMessageWebApplication.csprojResolveAssemblyReference.cache

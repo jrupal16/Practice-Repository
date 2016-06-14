@@ -1,0 +1,5 @@
+	interface Add{
+		long math_op(in long param1,in long param2,in long param3);
+	};
+
+

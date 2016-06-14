@@ -1,0 +1,6 @@
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.csprojResolveAssemblyReference.cache
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\bin\CalculatorWebApplication.dll.config
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\bin\CalculatorWebApplication.dll
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\bin\CalculatorWebApplication.pdb
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.dll
+H:\CS540\ASP.NET\WebServicesDemo\CalculatorWebApplication\obj\Debug\CalculatorWebApplication.pdb

@@ -1,0 +1,14 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "\"help to find files\"",
+  "main": "cli.js",
+  "scripts": {
+    "test": "--help"
+  },
+  "dependencies": {
+    "yargs": "^3.28.0"
+  },
+  "author": "\"javascript\"",
+  "license": "ISC"
+}

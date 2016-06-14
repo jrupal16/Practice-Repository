@@ -1,0 +1,6 @@
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll.config
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+H:\CS540\ASP.NET\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb

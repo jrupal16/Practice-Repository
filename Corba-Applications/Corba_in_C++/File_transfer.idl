@@ -1,0 +1,4 @@
+interface Hello
+{
+    string get_file(in string file_name);
+};
